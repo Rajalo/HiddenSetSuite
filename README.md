@@ -3,7 +3,7 @@
 
 # How to run
 
-If you have the .jar file, you can simply run it (usually just double clicking).
+If you have the .jar file from the release, you can simply run it (usually just double clicking).
 
 Elsewise, add all the src classes to a new IntelliJ Idea project. additionally place the Ti86PcBold.tff file just outside src.
 Download processing from here: https://processing.org/download
@@ -27,5 +27,5 @@ The program itself is relatively intuitive. Pencil in your histogram by adding i
 Click any of the three labelled buttons to run one of the three algorithms:
 
 1) Hidden Set (Browne and Chiu)
-2) Hidden Vertex Set (Variant of Browne and Chiu using theorems from Bajuelos et al.)
-3) r-Hidden Guard Set (Hoorfar and Bagheri) 
+2) Hidden Vertex Set (Variant of Browne and Chiu using theorems from Bajuelos et al. https://oa.upm.es/4564/)
+3) r-Hidden Guard Set (Hoorfar and Bagheri https://arxiv.org/abs/1708.05815) 

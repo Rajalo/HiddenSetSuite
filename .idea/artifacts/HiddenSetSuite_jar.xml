@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HiddenSetSuite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HiddenSetSuite_jar</output-path>
+    <root id="archive" name="HiddenSetSuite.jar">
+      <element id="module-output" name="HiddenSetSuite" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/processing-4.0b8-windows-x64/processing-4.0b8/core/library/core.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/Ti86PcBold.ttf" />
+    </root>
+  </artifact>
+</component>
